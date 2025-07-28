@@ -8,5 +8,5 @@
 
 
 
-![Agile Quiz](Sdlc/agile-quiz-greatlearning.jpg)
+![Agile Quiz](Sdlc/agile-quiz-GreatLearning.jpg)
 
