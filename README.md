@@ -12,3 +12,6 @@
 ![Git Certificate](Git/Git-simplilearn-certificate.jpg)
 
 ![Linux Commands](linux-cmds/ss3-linux-cmd.png)
+![Linux Commands](linux-cmds/ss4-linux-cmd.png)
+![Linux Commands](linux-cmds/ss5-linux-cmd.png)
+![Linux Commands](linux-cmds/ss6-linux-cmd.png)
