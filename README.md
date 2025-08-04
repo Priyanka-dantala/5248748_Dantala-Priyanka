@@ -15,3 +15,4 @@
 ![Linux Commands](linux-cmds/ss4-linux-cmd.png)
 ![Linux Commands](linux-cmds/ss5-linux-cmd.png)
 ![Linux Commands](linux-cmds/ss6-linux-cmd.png)
+![Sololearn Certificate](C-Programming/sololearn-introduction-to-C.png)
